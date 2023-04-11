@@ -1,5 +1,5 @@
 ### Hi there 👋
-I`m Pedram Arianmanesh, electrical and electronics engineering student at the Ferdowsi of Mashhad university.
+I`m Pedram Arianmanesh, electrical and electronics engineering student at Ferdowsi of Mashhad university.
 
 <!--
 **Pedram-Arianmanesh/Pedram-Arianmanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
